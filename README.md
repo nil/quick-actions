@@ -4,6 +4,6 @@ On macOS Mojave, Quick Actions are a fast way to do some action to a file withou
 
 ## Contents
 
-### Convert to JPG
+### Convert to JPG
 
 It takes any photo file and it converts it to the .jpg format.
